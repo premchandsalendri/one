@@ -810,7 +810,7 @@
             </nav>
             
             <div class="search-bar">
-                <input type="text" placeholder="Search products...">
+                <input type="text" placeholder="Search products">
                 <button type="submit"><i class="fas fa-search"></i></button>
             </div>
             
